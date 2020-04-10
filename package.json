@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+        "easymidi": "^1.0.3"
+    },
+    "name": "midi-controller",
+    "version": "1.0.0",
+    "description": "Virtual MIDI Controller",
+    "main": "output.js",
+    "repository": "https://github.com/narak/midi-controller",
+    "author": "Karan Sheth (karansheth@gmail.com)",
+    "license": "MIT"
+}
